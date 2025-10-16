@@ -6,4 +6,5 @@ readme = "README.md"
 requires-python = ">=3.13.8"
 dependencies = [
     "ipykernel>=7.0.1",
+    "openai-agents>=0.3.3",
 ]
